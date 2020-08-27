@@ -1,4 +1,4 @@
-# Python Notes:
+# Notes:
 
 ## Courses and Books:
 * [mycodeschool’s playlist](https://bit.ly/1NPQ2wQ)
